@@ -1,0 +1,5 @@
+References List
+
+1. I viewed some 24 Points question examples online, because there are some 4 numbers that do not work with 24 points.
+2. Prof. Jung viewed my game and recommended me to simplify the procedure of player to input the equation.
+3. I looked at the graphics.py document and used some functions inside, such as the color_rgb(). 
